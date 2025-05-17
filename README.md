@@ -56,4 +56,4 @@ The goal of this project was to simulate a real-world data engineering task by:
 
 ## Team Members
 **Group 10**  
-Antonieta Della Sala, Santiago, Kellie Ann, Barbara, Ethan, and more
+Antonieta Della Sala, Santiago Franco, Kellie Ann, Barbara Torres Ethan Walsh

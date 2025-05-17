@@ -53,3 +53,7 @@ The goal of this project was to simulate a real-world data engineering task by:
 - Joins, filtering, groupings, and aggregations
 - Business reporting via SQL
 - Automation using triggers and views
+
+  ## Team Members
+**Group 10**  
+Antonieta Della Sala, Santiago, Kellie Ann, Barbara, Ethan, and more
